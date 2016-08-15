@@ -11,6 +11,5 @@
 8. php yii rbac/init
 9. cd frontend/web/uploads  <--- chmod +w (for webserver) 
 10. admin:admin <--- login:pass
-----
-blog.ikw.pp.ua <--- frontend
-blog.ikw.pp.ua/admin  <--- backend
+11. blog.ikw.pp.ua <--- frontend
+12. blog.ikw.pp.ua/admin  <--- backend
